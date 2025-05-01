@@ -1,6 +1,6 @@
 <h1 align="center">💛 Self-Harm Awareness Submod 💛</h1>
-<h3 align="center">Awareness about self-harm and support to self-harmers, with different
-techniques, milestones, checkups, and new dialogue and spritepacks</h3>
+<h3 align="center">Conscientização sobre automutilação e apoio a pessoas que se automutilam, com diferentes
+técnicas, marcos, acompanhamentos e novos diálogos e pacotes de sprites</h3>
 
 <p align="center">
   <a href="https://github.com/friends-of-monika/mas-selfharm/releases/latest">
@@ -17,168 +17,166 @@ techniques, milestones, checkups, and new dialogue and spritepacks</h3>
   </a>
 </p>
 
-## ⚠️ Important notice
+## ⚠️ Aviso importante
 
-This submod is designed to help people that harm themselves in some way
-as well as to raise awareness and provide some insights for people who are
-willing to learn more about this phenomenon in particular.
+Este submod foi criado para ajudar pessoas que se automutilam de alguma forma,  
+bem como para aumentar a conscientização e fornecer alguns insights para quem  
+deseja aprender mais sobre esse fenômeno em particular.
 
-**However**, original authors, contributors, and repository maintainers
-do not glorify self-harm, suicide, or any other (self-)destructive behavior
-**nor provide professional psychological help**.
+**No entanto**, os autores originais, colaboradores e mantenedores do repositório  
+**não glorificam a automutilação, o suicídio ou qualquer outro comportamento (auto)destrutivo**,  
+**nem oferecem ajuda psicológica profissional**.
 
-If you're currently experiencing a need for psychological/psychiatric help,
-**please consider getting professional help from people working with this
-sort of issues specifically** as this mod is **not intended as a medical,
-psychological or any other sort of professional advice**; its only purpose
-is to bring awareness about self-harm or verbally support people
-going through hard times.
+Se você está passando por um momento em que precisa de ajuda psicológica/psiquiátrica,  
+**considere buscar ajuda profissional de pessoas capacitadas para lidar com esse tipo de situação**,  
+pois este mod **não se destina a oferecer conselhos médicos, psicológicos ou de qualquer natureza profissional**;  
+seu único propósito é trazer conscientização sobre a automutilação e oferecer apoio verbal  
+às pessoas que estão passando por momentos difíceis.
 
-If you desperately need help, seek professional psychological, psychiatrical
-or other appropriate help; there's **always** hope!
+Se você estiver precisando desesperadamente de ajuda, busque apoio psicológico, psiquiátrico  
+ou outro tipo de ajuda apropriada; **sempre** há esperança!
 
-## 🌟 Features
 
-  * 📚 Tons of new dialogues and events
-  * 🎵 Dozens of new songs (and dialogues for them!)
-  * 🩹 A whole lot of urge-relieving techniques
-  * 🗓️ Sober streak tracking
-  * 💊 Medication reminders
-  * 😄 Weekly checkups
-  * 💚 Self-harm information and awareness
-  * 📓 Diary/mood tracker feature
-  * 👗 Lots of new spritepacks and acs
-  * 🫂 First-aid notions and guiding
+## 🌟 Funcionalidades
 
-## 🤔 FAQ & Troubleshooting
+  * 📚 Vários novos diálogos e eventos
+  * 🎵 Dezenas de novas músicas (com diálogos exclusivos!)
+  * 🩹 Diversas técnicas para aliviar impulsos
+  * 🗓️ Rastreamento de períodos de sobriedade
+  * 💊 Lembretes para medicação
+  * 😄 Acompanhamentos semanais
+  * 💚 Informações e conscientização sobre automutilação
+  * 📓 Recurso de diário/rastreador de humor
+  * 👗 Muitos novos spritepacks e acessórios
+  * 🫂 Noções de primeiros socorros e orientação
 
-> [!WARNING]
-> This section may contain spoilers to the submod content/topics.
-> It probably isn't *quite* important when you're facing a problem, but still.
+## 🤔 FAQ e Solução de Problemas
 
-### Where's the self-harm topic?
+> [!AVISO]
+> Esta seção pode conter spoilers sobre o conteúdo/temas do submod.
+> Provavelmente isso não importa *tanto* quando você está enfrentando um problema, mas ainda assim.
 
-Her introduction topic is random and will show up sometime in the future, sooner
-or later (depends on how many unseen random topics you still have.)
-Be patient, you'll see it eventually.
+### Onde está o tópico sobre automutilação?
 
-### Monika's playlist doesn't play!
+A introdução dela aparece de forma aleatória e surgirá em algum momento no futuro,  
+mais cedo ou mais tarde (depende de quantos tópicos aleatórios não vistos você ainda tem).  
+Tenha paciência — você verá eventualmente.
 
-Make sure you installed the mod correctly, following the instructions on the
-[release page](https://github.com/friends-of-monika/mas-selfharm/releases/latest).
-Namely, path to the submod in your game folder must look *exactly* like this:<br>
-`(your DDLC folder) > game > Submods > Self Harm Awareness Submod`
+### A playlist da Monika não toca!
 
-Please mind the uppercase `S` in `Submods` and that there are no duplicated
-folders (like `game > game`) and you *have downloaded the submod from the releases page.*
+Certifique-se de que você instalou o submod corretamente, seguindo as instruções na  
+[página de lançamentos](https://github.com/friends-of-monika/mas-selfharm/releases/latest).  
+O caminho para o submod na sua pasta do jogo deve estar *exatamente* assim:<br>  
+`(sua pasta do DDLC) > game > Submods > Self Harm Awareness Submod`
 
-*Please. So many people keep trying to install development version of the submod
-by pressing that green/blue 'Code' button instead of following the guide. Please
-follow the guide instead.*
+Preste atenção no `S` maiúsculo em `Submods` e verifique se não há pastas duplicadas  
+(como `game > game`) e se você *baixou o submod pela página de lançamentos.*
 
-### Monika keeps saying the same topic over and over in a loop!
+*Por favor. Muitas pessoas tentam instalar a versão de desenvolvimento do submod  
+clicando naquele botão verde/azul 'Code' em vez de seguir o guia. Siga o guia, por favor.*
 
-This *was* a known bug that existed for a while until versions 2.0.3 and 2.0.4;
-if you have double checked that your submod version is the latest, please
-[create an issue](https://github.com/Friends-of-Monika/mas-selfharm/issues/new?assignees=&labels=bug&projects=&template=bug-report.yml&title=Bug%3A+).
+### A Monika continua dizendo o mesmo tópico repetidamente!
 
-*No, seriously. We couldn't ever reproduce it. Please give us some info if you can.*
+Esse *foi* um bug conhecido que existiu por um tempo até as versões 2.0.3 e 2.0.4;  
+se você já verificou que sua versão do submod é a mais recente, por favor  
+[crie um issue](https://github.com/Friends-of-Monika/mas-selfharm/issues/new?assignees=&labels=bug&projects=&template=bug-report.yml&title=Bug%3A+).
 
-## ✒️ Authors
+*Sério. Nunca conseguimos reproduzir isso. Nos envie informações se puder.*
 
-We've had plenty of people working on and contributing to this submod... In the past.
-Currently the submod is no longer updated with new content following Otter's leave and original team breakup.
-Friends of Monika only provide maintenance and support with updating this submod to new MAS versions
-and fixing bugs.
+## ✒️ Autores
 
-Here's a list of the people who have worked on this submod previously,
-the original MAS Self-Harm Submod Team:
+Muitas pessoas já trabalharam e contribuíram com este submod... No passado.  
+Atualmente, o submod não recebe mais conteúdo novo desde a saída de Otter e a separação da equipe original.  
+A Friends of Monika apenas oferece manutenção e suporte com atualizações para novas versões do MAS  
+e correções de bugs.
 
-* Otter &mdash; project managing, dialogue writing, ideas
-* dreamscached &mdash; general programming, project managing
-* DjMayJay &mdash; dialogue writing, spritepack design
-* Kitakus &mdash; dialogue writing, help with programming
-* MaliciousSoftware &mdash; help with dialogue/topics and programming
-* AmyKawa &mdash; help with dialogue/topics, sprite selection
-* charliethecookie &mdash; help with dialogue/topics
-* WentPostal &mdash; help with dialogue/topics
-* HistoryVariety &mdash; spritepack design, insights, and ideas
-* FellTheSimp &mdash; spritepack design, insights, and ideas
-* lukilak &mdash; help with dialogue/topics
-* Raider0401 &mdash; help with dialogue/topics
-* plushika_2137 &mdash; help with dialogue/topics
-* Tourist_Easy &mdash; help with dialogue/topics
-* MysticCreatesGames1 &mdash; help with dialogue/topics
-* fukawabunny &mdash; dialogue writing, proofreading, ideas
-* ImKventis &mdash; help with spritepack programming
-* LOeufmf &mdash; proofreading, insights, and ideas
-* Rhea &mdash; insights and ideas
-* Feenie &mdash; insights and ideas
+Aqui está uma lista das pessoas que já trabalharam neste submod,  
+a equipe original do MAS Self-Harm Submod:
+
+* Otter — gerenciamento do projeto, escrita de diálogos, ideias  
+* dreamscached — programação geral, gerenciamento do projeto  
+* DjMayJay — escrita de diálogos, design de spritepack  
+* Kitakus — escrita de diálogos, ajuda com programação  
+* MaliciousSoftware — ajuda com diálogos/tópicos e programação  
+* AmyKawa — ajuda com diálogos/tópicos, seleção de sprites  
+* charliethecookie — ajuda com diálogos/tópicos  
+* WentPostal — ajuda com diálogos/tópicos  
+* HistoryVariety — design de spritepack, ideias e insights  
+* FellTheSimp — design de spritepack, ideias e insights  
+* lukilak — ajuda com diálogos/tópicos  
+* Raider0401 — ajuda com diálogos/tópicos  
+* plushika_2137 — ajuda com diálogos/tópicos  
+* Tourist_Easy — ajuda com diálogos/tópicos  
+* MysticCreatesGames1 — ajuda com diálogos/tópicos  
+* fukawabunny — escrita de diálogos, revisão e ideias  
+* ImKventis — ajuda com programação de spritepacks  
+* LOeufmf — revisão, insights e ideias  
+* Rhea — insights e ideias  
+* Feenie — insights e ideias
 
 <table>
   <tr>
     <td>
-      Additionally, I would want to mention T. H., in whose memory the original team
-      has released this submod. Thank you for being with us.
+      Além disso, gostaria de mencionar T. H., em cuja memória a equipe original lançou este submod.  
+      Obrigado por estar conosco.
     </td>
   </tr>
 </table>
 
-These are all I can remember. Thank you everyone for your efforts 👋
+Esses são todos que consigo lembrar. Obrigado a todos pelo esforço 👋
 
-## 📻 Songs
+## 📻 Músicas
 
-> [!NOTE]
-> Are you the copyright holder or you have an inquiry regarding any of the listed
-> contents being included? Please contact the maintainer via e-mail or any other
-> available way first, we will remove the offending content immediately upon request.
+> [!NOTA]
+> É detentor de direitos autorais ou tem alguma dúvida sobre o conteúdo incluído?  
+> Entre em contato com o mantenedor por e-mail ou outro meio disponível e removeremos o conteúdo imediatamente se solicitado.
 
-A neat playlist Monika has made for you comes with this submod! Here's a list of
-songs her playlist has:
+Uma bela playlist que a Monika preparou para você vem com este submod!  
+Aqui está a lista de músicas da playlist dela:
 
-* Paradise Fears &mdash; Battle Scars ([YouTube](https://youtu.be/YkCK3ia4BpA))
-* Grace VanderWaal &mdash; Clay ([YouTube](https://youtu.be/Hs5fP7G8gBc))
-* Coldplay &mdash; Fix You ([YouTube](https://youtu.be/k4V3Mo61fJM))
-* Paramore &mdash; Hate To See Your Heart Break ([YouTube](https://youtu.be/Vd_0Hri6GWc))
-* The Five Stairsteps &mdash; O-o-h Child ([YouTube](https://youtu.be/dguz0IsCuKU))
-* Jimmy Eat World &mdash; The Middle ([YouTube](https://youtu.be/oKsxPW6i3pM))
-* Katy Perry &mdash; Firework ([YouTube](https://youtu.be/QGJuMBdaqIw))
-* Aimer &mdash; Torches ([YouTube](https://youtu.be/DP89-sZL1YM))
-* frederic &mdash; ONLYWONDER ([YouTube](https://youtu.be/oCrwzN6eb4Q))
-* Vo.Nai Br.XX & Celeina Ann and Vo.Alisa &mdash; Someday I Will Find My Way Home ([YouTube](https://youtu.be/otP_P67KHSU))
-* Justin Bieber &mdash; Hold On ([YouTube](https://youtu.be/LWeiydKl0mU))
-* Citizen Soldier &mdash; Still Breathing ([YouTube](https://youtu.be/JFAs8GKyZJE))
+* Paradise Fears — *Battle Scars* ([YouTube](https://youtu.be/YkCK3ia4BpA))  
+* Grace VanderWaal — *Clay* ([YouTube](https://youtu.be/Hs5fP7G8gBc))  
+* Coldplay — *Fix You* ([YouTube](https://youtu.be/k4V3Mo61fJM))  
+* Paramore — *Hate To See Your Heart Break* ([YouTube](https://youtu.be/Vd_0Hri6GWc))  
+* The Five Stairsteps — *O-o-h Child* ([YouTube](https://youtu.be/dguz0IsCuKU))  
+* Jimmy Eat World — *The Middle* ([YouTube](https://youtu.be/oKsxPW6i3pM))  
+* Katy Perry — *Firework* ([YouTube](https://youtu.be/QGJuMBdaqIw))  
+* Aimer — *Torches* ([YouTube](https://youtu.be/DP89-sZL1YM))  
+* frederic — *ONLYWONDER* ([YouTube](https://youtu.be/oCrwzN6eb4Q))  
+* Vo.Nai Br.XX & Celeina Ann e Vo.Alisa — *Someday I Will Find My Way Home* ([YouTube](https://youtu.be/otP_P67KHSU))  
+* Justin Bieber — *Hold On* ([YouTube](https://youtu.be/LWeiydKl0mU))  
+* Citizen Soldier — *Still Breathing* ([YouTube](https://youtu.be/JFAs8GKyZJE))
 
-## ⚖️ License
+## ⚖️ Licença
 
-> [!NOTE]
-> We don't go out of our way to enforce the license, but we chose to adopt this license to protect
-> our hard work from unwanted modifications or commercial use. If you want to change something in this submod &mdash;
-> feel free to contact us via Discord or the Issues page! We'll be glad to accept contributions, ideas, and suggestions.
+> [!NOTA]
+> Não fazemos questão de aplicar a licença de forma rígida, mas a adotamos para proteger nosso trabalho contra modificações indesejadas ou uso comercial.  
+> Se quiser alterar algo neste submod — entre em contato conosco via Discord ou pela aba de Issues!  
+> Ficaremos felizes em aceitar contribuições, ideias e sugestões.
 
-This submod is licensed under Creative Commons BY-NC-ND-4.0, which (in short)
-means:
+Este submod é licenciado sob Creative Commons BY-NC-ND-4.0, o que (em resumo) significa:
 
-* You are ***allowed*** to copy and distribute this submod as you received it, however...
-* You are ***required*** to give our submod team (*MAS Self-Harm Submod Team* or *Friends of Monika*) a proper credit
-  (we are fine with the name of our team or a link to this repository or our GitHub organization)
-* You are ***not allowed*** to use our submod for any commercial purposes (selling, renting, etc.)
-* You are ***not allowed*** to distribute any derivative works or adaptations of our submod
-  (with changes made to code, dialogue, other content, etc.)
+* Você ***pode*** copiar e distribuir este submod como o recebeu, no entanto...
+* Você ***deve*** creditar adequadamente nossa equipe (*MAS Self-Harm Submod Team* ou *Friends of Monika*)  
+  (aceitamos o nome da equipe ou um link para este repositório ou para nossa organização no GitHub)
+* Você ***não pode*** usar o submod para fins comerciais (venda, aluguel, etc.)
+* Você ***não pode*** distribuir obras derivadas ou adaptações do submod  
+  (com alterações no código, diálogos, outros conteúdos, etc.)
 
-### 🙅 Exceptions
+### 🙅 Exceções
 
-CC BY-NC-ND 4.0 only covers content created by authors, contributors, or maintainers of this mod (repository) and does not cover
-anything made by a third party (might include songs and other content besides submod scripts.)
+A licença CC BY-NC-ND 4.0 cobre apenas conteúdos criados por autores, colaboradores ou mantenedores deste mod (repositório),  
+e **não** cobre conteúdos de terceiros (como músicas e outros recursos além dos scripts do submod).
 
-Namely, *Monika's Playlist* (`res/music/playlist.ogg`) is made using third-party songs and sounds (see list above); we do not claim
-ownership over any of the tracks used in the mix unless explicitly stated.
+Por exemplo, a *Playlist da Monika* (`res/music/playlist.ogg`) foi feita com músicas e sons de terceiros  
+(veja a lista acima); não reivindicamos propriedade sobre nenhuma das faixas usadas, a menos que indicado.
 
-Also, because distributions of this submod also include creative works of other people (who at the moment have been
-a part of MAS Self-Harm Submod Team), these people are allowed to share and modify their own works (only their own or those
-they have taken part in working on!) with no restrictions imposed by CC BY-NC-ND 4.0:
+Além disso, como as distribuições deste submod incluem obras criativas de outras pessoas  
+(que em algum momento fizeram parte da equipe do MAS Self-Harm Submod), essas pessoas  
+**podem compartilhar e modificar seus próprios trabalhos** (somente os que criaram ou nos quais colaboraram)  
+sem as restrições da CC BY-NC-ND 4.0:
 
-* Otter
-* FellTheSimp
-* HistoryVariety
+* Otter  
+* FellTheSimp  
+* HistoryVariety  
 * DJMayJay
