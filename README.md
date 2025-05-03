@@ -180,3 +180,7 @@ sem as restrições da CC BY-NC-ND 4.0:
 * FellTheSimp  
 * HistoryVariety  
 * DJMayJay
+## 🇧🇷 Servidor do discord da comunidade MASBrasil (Monika After Story Brasil 🇧🇷)
+[![Discord server invitation](https://discordapp.com/api/guilds/1332992827701067786/widget.png?style=banner3)](https://discord.gg/vq5GZBW42R)
+
+Junte-se ao servidor do discord da nossa comunidade brasileira de Monika After Story! 🇧🇷
